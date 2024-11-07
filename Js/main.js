@@ -45,7 +45,7 @@ function menu() {
     }
     else {
         isactive = true;
-        icon.className = "bi bi-list three";
+        icon.className = "bi bi-x-circle three";
         minimenu.className = "d-block d-lg-none sidemenu edp";
     }
 }

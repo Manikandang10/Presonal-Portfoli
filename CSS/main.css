@@ -14,7 +14,7 @@ nav{
     height: 85vh;
     top: 40px;
     right: 0px;
-    position: absolute ;
+    position: fixed;
     text-align: center;
     background-color: #C5AA6A;
     padding: 40px 0px;
